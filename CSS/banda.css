@@ -1,0 +1,113 @@
+body {
+  background: #454545;
+  margin: 0;
+  padding: 0;
+  font-family: "Helvetica", "Arial";
+}
+
+#header {
+    font-family: "Helvetica", "Arial";
+    font-style: oblique;
+    text-align: justify;
+    color: #454545;
+    width : 100%;
+    height : 100px;
+    border-bottom: 3px solid #7C7063;
+}
+
+
+#wrapper {
+  width: 960px;
+  height: auto;
+  background: #eae3e9;
+  border-left: 5px solid #A09885;
+  border-right: 5px solid #A09885;
+  overflow: auto;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#logo {
+    float : left;
+    margin : 15px 5px 10px 5px;
+
+  }
+
+#Heading {
+  color: #454545;
+  text-align: center;
+  margin: 30px 180px 10px 15px;
+}
+
+#social {
+    float: right;
+    margin : 15px 10px 10px 15px;
+  }
+
+#social ul li {
+    float : left;
+    list-style: none;
+    padding-right: 5px;
+  }
+
+h2 {
+  color: #454545;
+  font-style: "Helvetica", "Arial";
+  text-align: center;
+  font-size: 24px;
+  margin: 30px 180px 10px 15px;
+}
+
+.portrait {
+  float: right;
+
+}
+
+.column {
+  color: #454545;
+  font-style: "Helvetica", "Arial";
+}
+
+.projects {
+  text-align: left;
+  font-style: "Helvetica", "Arial";
+  color: #454545;
+  border: 5px solid #A09885;
+}
+
+.projects h3 {
+  text-align: center;
+  font-style: "Helvetica", "Arial";
+  font-size: 24px;
+  margin: 30px 180px 10px 15px;
+  font-weight: bold;
+  color: #454545;
+}
+
+.projects ul li {
+  font-style: "Helvetica", "Arial";
+  color: #454545;
+  list-style: circle;
+}
+
+.projects ul li a {
+  color: #454545;
+  text-decoration: none;
+}
+
+#hobbies h3 {
+  text-align: center;
+  font-style: "Helvetica", "Arial";
+  font-size: 24px;
+  margin: 30px 160px 10px 15px;
+  font-weight: bold;
+  color: #454545;
+
+}
+
+
+#hobbies ul li {
+  float: left;
+  list-style: none;
+  padding-right: 5px;
+}
